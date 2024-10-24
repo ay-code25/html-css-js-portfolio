@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your portfolio website:
 
-```markdown
 # Ay.code Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills and experiences as a Frontend Developer, along with my personal projects, education, and contact information.
