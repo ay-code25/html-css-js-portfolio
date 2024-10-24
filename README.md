@@ -73,6 +73,5 @@ If you have any questions or would like to get in touch, you can reach me at:
 - **GitHub**: [GitHub Profile](https://github.com/ay-code25)
 
 Thank you for visiting my portfolio!
-```
 
-This `README.md` provides an overview of your portfolio website, its features, technologies, setup instructions, and contact information. You can customize it further based on your preferences!
+
